@@ -1,0 +1,24 @@
+{
+  "name": "supabase-listener",
+  "version": "1.0.0",
+  "description": "The database event which you would like to receive updates for",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekaone/supabase-listener.git"
+  },
+  "author": "Eka Prasetia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekaone/supabase-listener/issues"
+  },
+  "homepage": "https://supabase.io/docs/reference/javascript/subscribe",
+  "keywords": ["eka", "prasetia", "supabase", "database", "realtime"],
+  "dependencies": {
+    "@supabase/supabase-js": "^1.7.7",
+    "dotenv": "^8.2.0"
+  }
+}

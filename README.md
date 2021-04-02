@@ -2,7 +2,7 @@
 
 [![supabase-listener](https://res.cloudinary.com/ddjsyskef/image/upload/v1617333288/Github/g3se2hacftpstwf5mr1r.jpg)](#)
 
-# `Supabse Listener`
+# `Supabase Listener`
 
 [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-orange)][ama]
 
